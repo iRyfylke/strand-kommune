@@ -18,30 +18,37 @@ jobs:
 
       - name: Fetch KOSTRA nøkkeltall (12367)
         run: |
-          curl -X POST https://api.statbank.ssb.no:443/statbank/v1/no/kostra/kostra_regnskap/12367 \
-            -H "Content-Type: application/json" \
-            -d '{
-                  "query": [
-                    {
-                      "code": "Region",
-                      "selection": {
-                        "filter": "item",
-                        "values": ["1130"]
-                      }
-                    },
-                    {
-                      "code": "Tid",
-                      "selection": {
-                        "filter": "all",
-                        "values": ["*"]
-                      }
-                    }
-                  ],
-                  "response": {
-                    "format": "JSON"
-                  }
-                }' \
-            -o data/raw/ssb/kostra_12367.json
+          mkdir -p data/raw/ssb
+      
+          cat << 'EOF' > query.json
+          {
+            "query": [
+              {
+                "code": "Region",
+                "selection": {
+                  "filter": "item",
+                  "values": ["1130"]
+                }
+              },
+              {
+                "code": "Tid",
+                "selection": {
+                  "filter": "all",
+                  "values": ["*"]
+                }
+              }
+            ],
+            "response": {
+              "format": "JSON"
+            }
+          }
+          EOF
+
+    curl -X POST https://api.statbank.ssb.no:443/statbank/v1/no/kostra/kostra_regnskap/12367 \
+      -H "Content-Type: application/json" \
+      -d @query.json \
+      -o data/raw/ssb/kostra_12367.json
+
 
       - name: Commit and push if changed
         run: |
