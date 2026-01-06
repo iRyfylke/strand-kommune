@@ -42,6 +42,13 @@ jobs:
           }
           EOF
 
+      - name: DNS test
+        run: |
+          nslookup api.statbank.ssb.no || true
+          dig api.statbank.ssb.no || true
+          ping -c 3 api.statbank.ssb.no || true
+
+
       - name: Fetch KOSTRA nøkkeltall (12367)
         run: |
           curl -X POST https://api.statbank.ssb.no:443/statbank-api/v1/no/table/12367 \
