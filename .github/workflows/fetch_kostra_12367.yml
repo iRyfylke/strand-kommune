@@ -1,0 +1,52 @@
+name: Fetch SSB KOSTRA 12367
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Hver mandag kl 06:00
+  workflow_dispatch:
+
+jobs:
+  fetch-kostra-12367:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create data directory if missing
+        run: mkdir -p data/raw/ssb
+
+      - name: Fetch KOSTRA nøkkeltall (12367)
+        run: |
+          curl -X POST "https://api.statbank.ssb.no:443/statbank/v1/no/kostra/kostra_regnskap/12367" \
+            -H "Content-Type: application/json" \
+            -d '{
+                  "query": [
+                    {
+                      "code": "Region",
+                      "selection": {
+                        "filter": "item",
+                        "values": ["1130"]
+                      }
+                    },
+                    {
+                      "code": "Tid",
+                      "selection": {
+                        "filter": "all",
+                        "values": ["*"]
+                      }
+                    }
+                  ],
+                  "response": {
+                    "format": "JSON"
+                  }
+                }' \
+            -o data/raw/ssb/kostra_12367.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/raw/ssb/kostra_12367.json
+          git commit -m "Update SSB KOSTRA 12367 data" || echo "No changes to commit"
+          git push
