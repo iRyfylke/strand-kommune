@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch KOSTRA nøkkeltall (12367)
         run: |
-          curl -X POST "https://api.statbank.ssb.no:443/statbank/v1/no/kostra/kostra_regnskap/12367" \
+          curl -X POST https://api.statbank.ssb.no:443/statbank/v1/no/kostra/kostra_regnskap/12367 \
             -H "Content-Type: application/json" \
             -d '{
                   "query": [
