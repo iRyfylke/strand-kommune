@@ -10,7 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Show working directory
+        run: |
+          echo "PWD:"
+          pwd
+          echo "Repo contents:"
+          ls -R .
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,16 +34,29 @@ jobs:
           cat scripts/tables/13566.json
           echo "---------------------"
 
-      - name: Fetch table 13566
+      - name: Run fetch script
         run: python scripts/fetch_ssb.py
+        working-directory: ${{ github.workspace }}
 
-      - name: Flatten table 13566
+      - name: Run flatten script
         run: python scripts/flatten_jsonstat.py
+        working-directory: ${{ github.workspace }}
+
+      - name: Verify output files
+        run: |
+          echo "RAW FILE:"
+          ls -l data/raw/
+          echo "PROCESSED FILE:"
+          ls -l data/processed/
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/
-          git diff --quiet && echo "No changes to commit" || git commit -m "Update SSB data"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update SSB data"
+            git push
+          fi
