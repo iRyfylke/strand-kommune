@@ -1,0 +1,28 @@
+{
+  "query": [
+    {
+      "code": "KOKkommuneregion0000",
+      "selection": {
+        "filter": "agg_single:KOKkommuneregion0000029S2400",
+        "values": ["1130"]
+      }
+    },
+    {
+      "code": "KOKregnskapsomfa0000",
+      "selection": {
+        "filter": "item",
+        "values": ["B"]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": ["KOSbelop0000"]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
