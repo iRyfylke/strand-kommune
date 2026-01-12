@@ -1,17 +1,24 @@
 {
   "query": [
     {
-      "code": "Region",
+      "code": "KOKkommuneregion0000",
       "selection": {
         "filter": "item",
         "values": ["1130"]
       }
     },
     {
+      "code": "KOKregnskapsomfa0000",
+      "selection": {
+        "filter": "item",
+        "values": ["B"]
+      }
+    },
+    {
       "code": "ContentsCode",
       "selection": {
         "filter": "item",
-        "values": ["KPI"]
+        "values": ["KOSbelopprinnb0000"]
       }
     }
   ],
