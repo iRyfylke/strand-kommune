@@ -20,6 +20,12 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests
 
+      - name: Debug query file
+        run: |
+          echo "---- QUERY FILE ----"
+          cat scripts/tables/13566.json
+          echo "---------------------"
+
       - name: Fetch table 13566
         run: python scripts/fetch_ssb.py
 
@@ -31,5 +37,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/
-          git commit -m "Update SSB data"
+          git diff --quiet && echo "No changes to commit" || git commit -m "Update SSB data"
           git push
