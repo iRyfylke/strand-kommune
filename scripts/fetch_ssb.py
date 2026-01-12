@@ -2,29 +2,34 @@ import json
 import requests
 from pathlib import Path
 
-BASE_URL = "https://data.ssb.no/api/v0/no/table"
+CONFIG_PATH = Path("scripts/tables/config.json")
 
-def fetch_table(table_id: str):
-    query_path = Path(f"scripts/tables/{table_id}.json")
-    raw_out = Path(f"data/raw/{table_id}.json")
-
+def fetch_table(table_id: str, query_path: str):
     print(f"[INFO] Fetching table {table_id} from SSB…")
 
     with open(query_path, "r", encoding="utf-8") as f:
         query = json.load(f)
 
-    url = f"{BASE_URL}/{table_id}/"
-    response = requests.post(url, json=query)
+    url = f"https://data.ssb.no/api/v0/no/table/{table_id}/"
 
-    if response.status_code != 200:
+    r = requests.post(url, json=query)
+    if r.status_code != 200:
         raise RuntimeError(
-            f"SSB API error {response.status_code}: {response.text}"
+            f"SSB API error {r.status_code}: {r.text}"
         )
 
-    raw_out.parent.mkdir(parents=True, exist_ok=True)
-    raw_out.write_text(response.text, encoding="utf-8")
+    out_path = Path(f"data/raw/{table_id}.json")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(r.text, encoding="utf-8")
 
-    print(f"[OK] Saved raw data → {raw_out}")
+    print(f"[OK] Saved raw data → {out_path}")
+
+def main():
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        config = json.load(f)
+
+    for table_id, query_path in config.items():
+        fetch_table(table_id, query_path)
 
 if __name__ == "__main__":
-    fetch_table("13566")
+    main()
