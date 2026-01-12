@@ -1,0 +1,21 @@
+{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "item",
+        "values": ["1130"]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": ["KPI"]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
