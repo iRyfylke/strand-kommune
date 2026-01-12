@@ -3,7 +3,7 @@
     {
       "code": "KOKkommuneregion0000",
       "selection": {
-        "filter": "agg_single:KOKkommuneregion0000029S2400",
+        "filter": "item",
         "values": ["1130"]
       }
     },
@@ -18,7 +18,7 @@
       "code": "ContentsCode",
       "selection": {
         "filter": "item",
-        "values": ["KOSprosent0000"]
+        "values": ["KOSbelopbrinv0000"]
       }
     }
   ],
