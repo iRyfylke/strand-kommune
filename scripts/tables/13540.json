@@ -1,28 +1,42 @@
 {
   "query": [
     {
+      "code": "KOKartkap0000",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
       "code": "KOKkommuneregion0000",
       "selection": {
-        "filter": "item",
-        "values": ["1130"]
+        "filter": "all",
+        "values": ["*"]
       }
     },
     {
       "code": "KOKregnskapsomfa0000",
       "selection": {
         "filter": "item",
-        "values": ["B"]
+        "values": ["B", "C"]
       }
     },
     {
       "code": "ContentsCode",
       "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
         "filter": "item",
-        "values": ["KOSbelopprinnb0000"]
+        "values": ["2020", "2021", "2022", "2023", "2024"]
       }
     }
   ],
   "response": {
-    "format": "json-stat2"
+    "format": "JSON"
   }
 }
