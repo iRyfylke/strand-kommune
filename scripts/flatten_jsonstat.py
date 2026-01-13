@@ -11,9 +11,43 @@ def flatten(table_id: str):
     with open(raw_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Flattening logikk (din eksisterende eller den forbedrede)
-    # …
-    # (bruk gjerne den forbedrede versjonen vi laget)
+    dims = data["dimension"]
+    order = data["id"]
+    sizes = data["size"]
+    values = data["value"]
+
+    # Hent labels for alle dimensjoner
+    labels = {}
+    for dim in order:
+        cat = dims[dim]["category"]
+        labels[dim] = {
+            "codes": list(cat["index"].keys()),
+            "texts": cat["label"]
+        }
+
+    rows = []
+    idx = 0
+
+    # Dynamisk nested loop basert på dimensjonsrekkefølgen
+    def recurse(level, current):
+        nonlocal idx
+        if level == len(order):
+            rows.append(current | {"verdi": values[idx]})
+            idx += 1
+            return
+
+        dim = order[level]
+        for code in labels[dim]["codes"]:
+            recurse(level + 1, current | {
+                f"{dim}_kode": code,
+                dim: labels[dim]["texts"][code]
+            })
+
+    recurse(0, {})
+
+    df = pd.DataFrame(rows)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(out_path, index=False)
 
     print(f"[OK] Saved processed CSV → {out_path}")
 
