@@ -1,1 +1,71 @@
-
+KOKartkap0000_kode,KOKartkap0000,KOKkommuneregion0000_kode,KOKkommuneregion0000,KOKregnskapsomfa0000_kode,KOKregnskapsomfa0000,ContentsCode_kode,ContentsCode,Tid_kode,Tid,verdi
+AGD9,Brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,81313
+AGD9,Brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,86608
+AGD9,Brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,92365
+AGD9,Brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,98467
+AGD9,Brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,104727
+AGD3,Korrigerte brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,63650
+AGD3,Korrigerte brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,68251
+AGD3,Korrigerte brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,72840
+AGD3,Korrigerte brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,75905
+AGD3,Korrigerte brutto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,80424
+AGD1,Netto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,62912
+AGD1,Netto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,66422
+AGD1,Netto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,71763
+AGD1,Netto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,77823
+AGD1,Netto driftsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,81428
+AGD13,Brutto driftsinntekter i alt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,81659
+AGD13,Brutto driftsinntekter i alt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,86912
+AGD13,Brutto driftsinntekter i alt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,91593
+AGD13,Brutto driftsinntekter i alt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,95752
+AGD13,Brutto driftsinntekter i alt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,101463
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,1776
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,1555
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,-274
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,-1833
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,-3815
+AG12,Skatt på inntekt og formue inkludert naturressursskatt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,27004
+AG12,Skatt på inntekt og formue inkludert naturressursskatt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,31318
+AG12,Skatt på inntekt og formue inkludert naturressursskatt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,34469
+AG12,Skatt på inntekt og formue inkludert naturressursskatt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,32125
+AG12,Skatt på inntekt og formue inkludert naturressursskatt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,32941
+A800,Rammetilskudd,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,31167
+A800,Rammetilskudd,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,30799
+A800,Rammetilskudd,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,30525
+A800,Rammetilskudd,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,33947
+A800,Rammetilskudd,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,36106
+AG10,Eiendomsskatt totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,2660
+AG10,Eiendomsskatt totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,2784
+AG10,Eiendomsskatt totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,2733
+AG10,Eiendomsskatt totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,2799
+AG10,Eiendomsskatt totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,2792
+AG11,Frie inntekter,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,58171
+AG11,Frie inntekter,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,62117
+AG11,Frie inntekter,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,64994
+AG11,Frie inntekter,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,66073
+AG11,Frie inntekter,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,69047
+AGD20,"Netto inntekt fra konsesjonskraft, kraftrettigheter og annen kraft for videresalg",1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,61
+AGD20,"Netto inntekt fra konsesjonskraft, kraftrettigheter og annen kraft for videresalg",1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,419
+AGD20,"Netto inntekt fra konsesjonskraft, kraftrettigheter og annen kraft for videresalg",1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,984
+AGD20,"Netto inntekt fra konsesjonskraft, kraftrettigheter og annen kraft for videresalg",1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,454
+AGD20,"Netto inntekt fra konsesjonskraft, kraftrettigheter og annen kraft for videresalg",1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,296
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,28418
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,25209
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,17775
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,10026
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,10414
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,76933
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,89958
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,97752
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,97208
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,99565
+KG116,Langsiktig gjeld ex. pensjonsforpliktelser,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,94992
+KG116,Langsiktig gjeld ex. pensjonsforpliktelser,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,107318
+KG116,Langsiktig gjeld ex. pensjonsforpliktelser,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,117664
+KG116,Langsiktig gjeld ex. pensjonsforpliktelser,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,123961
+KG116,Langsiktig gjeld ex. pensjonsforpliktelser,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,122983
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2020,2020,77362
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2021,2021,73565
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2022,2022,78510
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2023,2023,81625
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopprinnb0000,Beløp per innbygger (kr),2024,2024,87029
