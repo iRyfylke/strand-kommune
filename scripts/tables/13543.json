@@ -1,0 +1,40 @@
+{
+  "query": [
+    {
+      "code": "KOKkommuneregion0000",
+      "selection": {
+        "filter": "item",
+        "values": ["1130"]
+      }
+    },
+    {
+      "code": "KOKregnskapsomfa0000",
+      "selection": {
+        "filter": "item",
+        "values": ["B"]
+      }
+    },
+    {
+      "code": "KOKart0000",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "A800","AGD75","AG10","AGD76","AGD77","AGD78","A600","AGD96","AGD45",
+          "AG15","AG35","AG17","AGD51","AGD80","A590","AGD46","AGD67","AGD79",
+          "AGD81","AGD83","AGD82","AG5","AGD86","AGD88","AGD90","570","550",
+          "950","540","940","AD930","AD530","AGD93","AGD95"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": ["KOSbelop0000"]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
