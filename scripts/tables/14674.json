@@ -1,0 +1,21 @@
+{
+  "query": [
+    {
+      "code": "KOKkommuneregion0000",
+      "selection": {
+        "filter": "item",
+        "values": ["1130"]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
