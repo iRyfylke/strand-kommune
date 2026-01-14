@@ -169,3 +169,173 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,KOKregnskapsomfa0000_kode,KOKregn
 1130,Strand,B,(Fylkes-)Kommunekasse,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
 1130,Strand,B,(Fylkes-)Kommunekasse,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
 1130,Strand,B,(Fylkes-)Kommunekasse,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A800,Rammetilskudd,KOSbelop0000,Beløp (1000 kr),2020,2020,407358.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A800,Rammetilskudd,KOSbelop0000,Beløp (1000 kr),2021,2021,408647.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A800,Rammetilskudd,KOSbelop0000,Beløp (1000 kr),2022,2022,411294.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A800,Rammetilskudd,KOSbelop0000,Beløp (1000 kr),2023,2023,465181.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A800,Rammetilskudd,KOSbelop0000,Beløp (1000 kr),2024,2024,498731.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD75,Inntekts- og formueskatt,KOSbelop0000,Beløp (1000 kr),2020,2020,352943.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD75,Inntekts- og formueskatt,KOSbelop0000,Beløp (1000 kr),2021,2021,415522.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD75,Inntekts- og formueskatt,KOSbelop0000,Beløp (1000 kr),2022,2022,463454.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD75,Inntekts- og formueskatt,KOSbelop0000,Beløp (1000 kr),2023,2023,440212.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD75,Inntekts- og formueskatt,KOSbelop0000,Beløp (1000 kr),2024,2024,455010.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG10,Eiendomsskatt totalt,KOSbelop0000,Beløp (1000 kr),2020,2020,34761.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG10,Eiendomsskatt totalt,KOSbelop0000,Beløp (1000 kr),2021,2021,36943.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG10,Eiendomsskatt totalt,KOSbelop0000,Beløp (1000 kr),2022,2022,36827.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG10,Eiendomsskatt totalt,KOSbelop0000,Beløp (1000 kr),2023,2023,38351.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG10,Eiendomsskatt totalt,KOSbelop0000,Beløp (1000 kr),2024,2024,38567.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD76,Andre skatteinntekter,KOSbelop0000,Beløp (1000 kr),2020,2020,407.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD76,Andre skatteinntekter,KOSbelop0000,Beløp (1000 kr),2021,2021,408.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD76,Andre skatteinntekter,KOSbelop0000,Beløp (1000 kr),2022,2022,1432.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD76,Andre skatteinntekter,KOSbelop0000,Beløp (1000 kr),2023,2023,456.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD76,Andre skatteinntekter,KOSbelop0000,Beløp (1000 kr),2024,2024,456.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD77,Andre overføringer og tilskudd fra staten,KOSbelop0000,Beløp (1000 kr),2020,2020,32801.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD77,Andre overføringer og tilskudd fra staten,KOSbelop0000,Beløp (1000 kr),2021,2021,28270.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD77,Andre overføringer og tilskudd fra staten,KOSbelop0000,Beløp (1000 kr),2022,2022,45829.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD77,Andre overføringer og tilskudd fra staten,KOSbelop0000,Beløp (1000 kr),2023,2023,85710.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD77,Andre overføringer og tilskudd fra staten,KOSbelop0000,Beløp (1000 kr),2024,2024,87603.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD78,Overføringer og tilskudd fra andre,KOSbelop0000,Beløp (1000 kr),2020,2020,126100.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD78,Overføringer og tilskudd fra andre,KOSbelop0000,Beløp (1000 kr),2021,2021,135330.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD78,Overføringer og tilskudd fra andre,KOSbelop0000,Beløp (1000 kr),2022,2022,133308.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD78,Overføringer og tilskudd fra andre,KOSbelop0000,Beløp (1000 kr),2023,2023,151166.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD78,Overføringer og tilskudd fra andre,KOSbelop0000,Beløp (1000 kr),2024,2024,182854.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A600,Brukerbetalinger,KOSbelop0000,Beløp (1000 kr),2020,2020,23478.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A600,Brukerbetalinger,KOSbelop0000,Beløp (1000 kr),2021,2021,27432.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A600,Brukerbetalinger,KOSbelop0000,Beløp (1000 kr),2022,2022,29533.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A600,Brukerbetalinger,KOSbelop0000,Beløp (1000 kr),2023,2023,31983.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A600,Brukerbetalinger,KOSbelop0000,Beløp (1000 kr),2024,2024,31886.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD96,Salgs- og leieinntekter,KOSbelop0000,Beløp (1000 kr),2020,2020,89437.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD96,Salgs- og leieinntekter,KOSbelop0000,Beløp (1000 kr),2021,2021,100601.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD96,Salgs- og leieinntekter,KOSbelop0000,Beløp (1000 kr),2022,2022,112448.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD96,Salgs- og leieinntekter,KOSbelop0000,Beløp (1000 kr),2023,2023,99027.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD96,Salgs- og leieinntekter,KOSbelop0000,Beløp (1000 kr),2024,2024,106407.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD45,Sum driftsinntekter (A),KOSbelop0000,Beløp (1000 kr),2020,2020,1067285.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD45,Sum driftsinntekter (A),KOSbelop0000,Beløp (1000 kr),2021,2021,1153153.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD45,Sum driftsinntekter (A),KOSbelop0000,Beløp (1000 kr),2022,2022,1234125.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD45,Sum driftsinntekter (A),KOSbelop0000,Beløp (1000 kr),2023,2023,1312086.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD45,Sum driftsinntekter (A),KOSbelop0000,Beløp (1000 kr),2024,2024,1401514.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG15,Lønnsutgifter og oppgavepliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2020,2020,540142.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG15,Lønnsutgifter og oppgavepliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2021,2021,571098.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG15,Lønnsutgifter og oppgavepliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2022,2022,613633.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG15,Lønnsutgifter og oppgavepliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2023,2023,669381.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG15,Lønnsutgifter og oppgavepliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2024,2024,692602.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG35,Sosiale utgifter,KOSbelop0000,Beløp (1000 kr),2020,2020,131125.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG35,Sosiale utgifter,KOSbelop0000,Beløp (1000 kr),2021,2021,139750.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG35,Sosiale utgifter,KOSbelop0000,Beløp (1000 kr),2022,2022,153563.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG35,Sosiale utgifter,KOSbelop0000,Beløp (1000 kr),2023,2023,151923.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG35,Sosiale utgifter,KOSbelop0000,Beløp (1000 kr),2024,2024,198271.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG17,Kjøp av varer og tjenester som inngår i (fylkes-)kommunal tjenesteproduksjon ekskl. opplysningspliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2020,2020,110339.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG17,Kjøp av varer og tjenester som inngår i (fylkes-)kommunal tjenesteproduksjon ekskl. opplysningspliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2021,2021,139168.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG17,Kjøp av varer og tjenester som inngår i (fylkes-)kommunal tjenesteproduksjon ekskl. opplysningspliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2022,2022,155726.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG17,Kjøp av varer og tjenester som inngår i (fylkes-)kommunal tjenesteproduksjon ekskl. opplysningspliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2023,2023,147209.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG17,Kjøp av varer og tjenester som inngår i (fylkes-)kommunal tjenesteproduksjon ekskl. opplysningspliktige godtgjørelser,KOSbelop0000,Beløp (1000 kr),2024,2024,142955.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD51,"Kjøp av tjenester som erstatter kommunal tjenesteproduksjon, totalt",KOSbelop0000,Beløp (1000 kr),2020,2020,173283.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD51,"Kjøp av tjenester som erstatter kommunal tjenesteproduksjon, totalt",KOSbelop0000,Beløp (1000 kr),2021,2021,184151.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD51,"Kjøp av tjenester som erstatter kommunal tjenesteproduksjon, totalt",KOSbelop0000,Beløp (1000 kr),2022,2022,195328.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD51,"Kjøp av tjenester som erstatter kommunal tjenesteproduksjon, totalt",KOSbelop0000,Beløp (1000 kr),2023,2023,232962.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD51,"Kjøp av tjenester som erstatter kommunal tjenesteproduksjon, totalt",KOSbelop0000,Beløp (1000 kr),2024,2024,260747.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD80,Overføringer og tilskudd til andre,KOSbelop0000,Beløp (1000 kr),2020,2020,57579.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD80,Overføringer og tilskudd til andre,KOSbelop0000,Beløp (1000 kr),2021,2021,59415.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD80,Overføringer og tilskudd til andre,KOSbelop0000,Beløp (1000 kr),2022,2022,67759.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD80,Overføringer og tilskudd til andre,KOSbelop0000,Beløp (1000 kr),2023,2023,76200.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD80,Overføringer og tilskudd til andre,KOSbelop0000,Beløp (1000 kr),2024,2024,74960.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A590,Avskrivninger,KOSbelop0000,Beløp (1000 kr),2020,2020,50297.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A590,Avskrivninger,KOSbelop0000,Beløp (1000 kr),2021,2021,55533.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A590,Avskrivninger,KOSbelop0000,Beløp (1000 kr),2022,2022,58523.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A590,Avskrivninger,KOSbelop0000,Beløp (1000 kr),2023,2023,71614.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,A590,Avskrivninger,KOSbelop0000,Beløp (1000 kr),2024,2024,77065.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD46,Sum driftsutgifter (B),KOSbelop0000,Beløp (1000 kr),2020,2020,1062765.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD46,Sum driftsutgifter (B),KOSbelop0000,Beløp (1000 kr),2021,2021,1149115.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD46,Sum driftsutgifter (B),KOSbelop0000,Beløp (1000 kr),2022,2022,1244532.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD46,Sum driftsutgifter (B),KOSbelop0000,Beløp (1000 kr),2023,2023,1349289.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD46,Sum driftsutgifter (B),KOSbelop0000,Beløp (1000 kr),2024,2024,1446600.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD67,Brutto driftsresultat (C=A-B),KOSbelop0000,Beløp (1000 kr),2020,2020,4520.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD67,Brutto driftsresultat (C=A-B),KOSbelop0000,Beløp (1000 kr),2021,2021,4038.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD67,Brutto driftsresultat (C=A-B),KOSbelop0000,Beløp (1000 kr),2022,2022,-10407.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD67,Brutto driftsresultat (C=A-B),KOSbelop0000,Beløp (1000 kr),2023,2023,-37203.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD67,Brutto driftsresultat (C=A-B),KOSbelop0000,Beløp (1000 kr),2024,2024,-45086.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD79,Renteinntekter,KOSbelop0000,Beløp (1000 kr),2020,2020,12861.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD79,Renteinntekter,KOSbelop0000,Beløp (1000 kr),2021,2021,8197.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD79,Renteinntekter,KOSbelop0000,Beløp (1000 kr),2022,2022,21210.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD79,Renteinntekter,KOSbelop0000,Beløp (1000 kr),2023,2023,43377.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD79,Renteinntekter,KOSbelop0000,Beløp (1000 kr),2024,2024,50274.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD81,Utbytter,KOSbelop0000,Beløp (1000 kr),2020,2020,15197.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD81,Utbytter,KOSbelop0000,Beløp (1000 kr),2021,2021,15956.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD81,Utbytter,KOSbelop0000,Beløp (1000 kr),2022,2022,16462.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD81,Utbytter,KOSbelop0000,Beløp (1000 kr),2023,2023,27852.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD81,Utbytter,KOSbelop0000,Beløp (1000 kr),2024,2024,18863.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD83,Gevinster og tap på finansielle omløpsmidler,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD83,Gevinster og tap på finansielle omløpsmidler,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD83,Gevinster og tap på finansielle omløpsmidler,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD83,Gevinster og tap på finansielle omløpsmidler,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD83,Gevinster og tap på finansielle omløpsmidler,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD82,Renteutgifter,KOSbelop0000,Beløp (1000 kr),2020,2020,25978.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD82,Renteutgifter,KOSbelop0000,Beløp (1000 kr),2021,2021,22489.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD82,Renteutgifter,KOSbelop0000,Beløp (1000 kr),2022,2022,45048.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD82,Renteutgifter,KOSbelop0000,Beløp (1000 kr),2023,2023,81255.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD82,Renteutgifter,KOSbelop0000,Beløp (1000 kr),2024,2024,99917.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG5,Avdrag på lån,KOSbelop0000,Beløp (1000 kr),2020,2020,33682.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG5,Avdrag på lån,KOSbelop0000,Beløp (1000 kr),2021,2021,40600.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG5,Avdrag på lån,KOSbelop0000,Beløp (1000 kr),2022,2022,44428.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG5,Avdrag på lån,KOSbelop0000,Beløp (1000 kr),2023,2023,49500.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AG5,Avdrag på lån,KOSbelop0000,Beløp (1000 kr),2024,2024,53889.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD86,Netto finansutgifter (D),KOSbelop0000,Beløp (1000 kr),2020,2020,31602.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD86,Netto finansutgifter (D),KOSbelop0000,Beløp (1000 kr),2021,2021,38936.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD86,Netto finansutgifter (D),KOSbelop0000,Beløp (1000 kr),2022,2022,51804.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD86,Netto finansutgifter (D),KOSbelop0000,Beløp (1000 kr),2023,2023,59526.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD86,Netto finansutgifter (D),KOSbelop0000,Beløp (1000 kr),2024,2024,84669.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD88,Motpost avskrivninger (e ),KOSbelop0000,Beløp (1000 kr),2020,2020,50300.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD88,Motpost avskrivninger (e ),KOSbelop0000,Beløp (1000 kr),2021,2021,55533.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD88,Motpost avskrivninger (e ),KOSbelop0000,Beløp (1000 kr),2022,2022,58522.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD88,Motpost avskrivninger (e ),KOSbelop0000,Beløp (1000 kr),2023,2023,71614.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD88,Motpost avskrivninger (e ),KOSbelop0000,Beløp (1000 kr),2024,2024,77064.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD90,Netto driftsresultat (F=C-D+e),KOSbelop0000,Beløp (1000 kr),2020,2020,23218.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD90,Netto driftsresultat (F=C-D+e),KOSbelop0000,Beløp (1000 kr),2021,2021,20635.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD90,Netto driftsresultat (F=C-D+e),KOSbelop0000,Beløp (1000 kr),2022,2022,-3689.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD90,Netto driftsresultat (F=C-D+e),KOSbelop0000,Beløp (1000 kr),2023,2023,-25115.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD90,Netto driftsresultat (F=C-D+e),KOSbelop0000,Beløp (1000 kr),2024,2024,-52691.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,570,Overføring til investering (K),KOSbelop0000,Beløp (1000 kr),2020,2020,4509.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,570,Overføring til investering (K),KOSbelop0000,Beløp (1000 kr),2021,2021,5583.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,570,Overføring til investering (K),KOSbelop0000,Beløp (1000 kr),2022,2022,15296.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,570,Overføring til investering (K),KOSbelop0000,Beløp (1000 kr),2023,2023,29456.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,570,Overføring til investering (K),KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,550,Avsetninger til bundne fond,KOSbelop0000,Beløp (1000 kr),2020,2020,21319.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,550,Avsetninger til bundne fond,KOSbelop0000,Beløp (1000 kr),2021,2021,15590.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,550,Avsetninger til bundne fond,KOSbelop0000,Beløp (1000 kr),2022,2022,13804.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,550,Avsetninger til bundne fond,KOSbelop0000,Beløp (1000 kr),2023,2023,9597.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,550,Avsetninger til bundne fond,KOSbelop0000,Beløp (1000 kr),2024,2024,14718.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,950,Bruk av bundne fond,KOSbelop0000,Beløp (1000 kr),2020,2020,4555.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,950,Bruk av bundne fond,KOSbelop0000,Beløp (1000 kr),2021,2021,11302.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,950,Bruk av bundne fond,KOSbelop0000,Beløp (1000 kr),2022,2022,13759.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,950,Bruk av bundne fond,KOSbelop0000,Beløp (1000 kr),2023,2023,19971.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,950,Bruk av bundne fond,KOSbelop0000,Beløp (1000 kr),2024,2024,10197.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,540,Avsetninger til ubundne fond,KOSbelop0000,Beløp (1000 kr),2020,2020,41813.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,540,Avsetninger til ubundne fond,KOSbelop0000,Beløp (1000 kr),2021,2021,22585.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,540,Avsetninger til ubundne fond,KOSbelop0000,Beløp (1000 kr),2022,2022,6806.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,540,Avsetninger til ubundne fond,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,540,Avsetninger til ubundne fond,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,940,Bruk av ubundne fond,KOSbelop0000,Beløp (1000 kr),2020,2020,31901.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,940,Bruk av ubundne fond,KOSbelop0000,Beløp (1000 kr),2021,2021,11823.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,940,Bruk av ubundne fond,KOSbelop0000,Beløp (1000 kr),2022,2022,25834.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,940,Bruk av ubundne fond,KOSbelop0000,Beløp (1000 kr),2023,2023,44199.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,940,Bruk av ubundne fond,KOSbelop0000,Beløp (1000 kr),2024,2024,57215.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD930,Bruk av tidligere års regnskapsmessige mindreforbruk,KOSbelop0000,Beløp (1000 kr),2020,2020,-7968.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD930,Bruk av tidligere års regnskapsmessige mindreforbruk,KOSbelop0000,Beløp (1000 kr),2021,2021,
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD930,Bruk av tidligere års regnskapsmessige mindreforbruk,KOSbelop0000,Beløp (1000 kr),2022,2022,
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD930,Bruk av tidligere års regnskapsmessige mindreforbruk,KOSbelop0000,Beløp (1000 kr),2023,2023,
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD930,Bruk av tidligere års regnskapsmessige mindreforbruk,KOSbelop0000,Beløp (1000 kr),2024,2024,
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD530,Dekning av tidligere års merforbruk,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD530,Dekning av tidligere års merforbruk,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD530,Dekning av tidligere års merforbruk,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD530,Dekning av tidligere års merforbruk,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AD530,Dekning av tidligere års merforbruk,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD93,Sum disponering eller dekning av netto driftsresultat,KOSbelop0000,Beløp (1000 kr),2020,2020,23217.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD93,Sum disponering eller dekning av netto driftsresultat,KOSbelop0000,Beløp (1000 kr),2021,2021,20633.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD93,Sum disponering eller dekning av netto driftsresultat,KOSbelop0000,Beløp (1000 kr),2022,2022,-3687.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD93,Sum disponering eller dekning av netto driftsresultat,KOSbelop0000,Beløp (1000 kr),2023,2023,-25117.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD93,Sum disponering eller dekning av netto driftsresultat,KOSbelop0000,Beløp (1000 kr),2024,2024,-52694.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,AGD95,Fremført til inndekning i senere år (merforbruk),KOSbelop0000,Beløp (1000 kr),2024,2024,0.0

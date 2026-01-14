@@ -1,6 +1,81 @@
 KOKkommuneregion0000_kode,KOKkommuneregion0000,KOKregnskapsomfa0000_kode,KOKregnskapsomfa0000,ContentsCode_kode,ContentsCode,Tid_kode,Tid,verdi
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAG110000,Frie inntekter per innbygger (kr),2020,2020,58171.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAG110000,Frie inntekter per innbygger (kr),2021,2021,62117.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAG110000,Frie inntekter per innbygger (kr),2022,2022,64994.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAG110000,Frie inntekter per innbygger (kr),2023,2023,66073.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAG110000,Frie inntekter per innbygger (kr),2024,2024,69047.0
 1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2020,2020,2.2
 1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2021,2021,1.8
 1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2022,2022,-0.3
 1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2023,2023,-1.9
 1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2024,2024,-3.8
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2020,2020,0.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2021,2021,0.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2022,2022,0.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2023,2023,0.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2024,2024,0.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2020,2020,34.8
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2021,2021,29.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2022,2022,19.4
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2023,2023,10.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2024,2024,10.3
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2020,2020,37.7
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2021,2021,31.6
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2022,2022,32.1
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2023,2023,48.1
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2024,2024,35.0
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2020,2020,22.7
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2021,2021,19.7
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2022,2022,19.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2023,2023,17.9
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2024,2024,10.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2020,2020,116.3
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2021,2021,123.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2022,2022,128.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2023,2023,129.5
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2024,2024,121.2
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2020,2020,12.3
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2021,2021,12.1
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2022,2022,9.8
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2023,2023,5.9
+1130,Strand,B,(Fylkes-)Kommunekasse,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2024,2024,1.4
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAG110000,Frie inntekter per innbygger (kr),2020,2020,58171.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAG110000,Frie inntekter per innbygger (kr),2021,2021,62117.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAG110000,Frie inntekter per innbygger (kr),2022,2022,64994.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAG110000,Frie inntekter per innbygger (kr),2023,2023,66073.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAG110000,Frie inntekter per innbygger (kr),2024,2024,69047.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2020,2020,2.2
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2021,2021,1.8
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2022,2022,-0.3
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2023,2023,-1.9
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD230000,Netto driftresultat i prosent av brutto driftsinntekter (prosent),2024,2024,-3.8
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2020,2020,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2021,2021,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2022,2022,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2023,2023,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGD290000,Årets merforbruk i driftsregnskapet i prosent av brutto driftsinntekter (prosent),2024,2024,0.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2020,2020,34.8
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2021,2021,29.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2022,2022,19.4
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2023,2023,10.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI10000,Brutto investeringsutgifter i prosent av brutto driftsinntekter (prosent),2024,2024,10.3
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2020,2020,37.7
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2021,2021,31.6
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2022,2022,32.1
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2023,2023,48.1
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSAGI210000,Egenfinansiering av investeringene i prosent av totale brutto investeringer (prosent),2024,2024,35.0
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2020,2020,22.7
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2021,2021,19.7
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2022,2022,19.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2023,2023,17.9
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1140000,Arbeidskapital ex. premieavvik i prosent av brutto driftsinntekter (prosent),2024,2024,10.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2020,2020,116.3
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2021,2021,123.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2022,2022,128.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2023,2023,129.5
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG1160000,Langsiktig gjeld ex. pensjonsforpliktelser i prosent av brutto driftsinntekter (prosent),2024,2024,121.2
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2020,2020,12.3
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2021,2021,12.1
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2022,2022,9.8
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2023,2023,5.9
+1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSKG210000,Fri egenkapital drift i prosent av brutto driftsinntekter (prosent),2024,2024,1.4

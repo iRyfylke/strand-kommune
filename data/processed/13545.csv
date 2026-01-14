@@ -4,288 +4,578 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,KOKkapittel0000_kode,KOKkapittel0
 1130,Strand,KG95,A.Anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,3428245
 1130,Strand,KG95,A.Anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,3605145
 1130,Strand,KG95,A.Anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,3774770
+1130,Strand,KG95,A.Anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,2921673
+1130,Strand,KG95,A.Anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,3183800
+1130,Strand,KG95,A.Anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,3428245
+1130,Strand,KG95,A.Anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,3605145
+1130,Strand,KG95,A.Anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,3774770
 1130,Strand,KG42,A.1 Varige driftsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1678639
 1130,Strand,KG42,A.1 Varige driftsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1952765
 1130,Strand,KG42,A.1 Varige driftsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,2117598
 1130,Strand,KG42,A.1 Varige driftsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,2176236
 1130,Strand,KG42,A.1 Varige driftsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,2241572
+1130,Strand,KG42,A.1 Varige driftsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1678639
+1130,Strand,KG42,A.1 Varige driftsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1952765
+1130,Strand,KG42,A.1 Varige driftsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,2117598
+1130,Strand,KG42,A.1 Varige driftsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,2176236
+1130,Strand,KG42,A.1 Varige driftsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,2241572
 1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1633856
 1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1909323
 1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,2061845
 1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,2114727
 1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,2182373
+1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1633856
+1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1909323
+1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,2061845
+1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,2114727
+1130,Strand,KG43,A.1.1 Faste eiendommer og anlegg,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,2182373
 1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,44783
 1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,43442
 1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,55753
 1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,61509
 1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,59199
+1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,44783
+1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,43442
+1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,55753
+1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,61509
+1130,Strand,KG44,"A.1.2 Utstyr, maskiner og transportmidler",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,59199
 1130,Strand,KG96,A.2 Finansielle anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,249338
 1130,Strand,KG96,A.2 Finansielle anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,262806
 1130,Strand,KG96,A.2 Finansielle anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,288046
 1130,Strand,KG96,A.2 Finansielle anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,304227
 1130,Strand,KG96,A.2 Finansielle anleggsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,314344
+1130,Strand,KG96,A.2 Finansielle anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,249338
+1130,Strand,KG96,A.2 Finansielle anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,262806
+1130,Strand,KG96,A.2 Finansielle anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,288046
+1130,Strand,KG96,A.2 Finansielle anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,304227
+1130,Strand,KG96,A.2 Finansielle anleggsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,314344
 1130,Strand,KG46,A.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,62997
 1130,Strand,KG46,A.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,64795
 1130,Strand,KG46,A.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,70477
 1130,Strand,KG46,A.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,47037
 1130,Strand,KG46,A.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,47379
+1130,Strand,KG46,A.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,62997
+1130,Strand,KG46,A.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,64795
+1130,Strand,KG46,A.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,70477
+1130,Strand,KG46,A.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,47037
+1130,Strand,KG46,A.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,47379
 1130,Strand,KG47,A.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG47,A.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG47,A.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG47,A.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG47,A.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG47,A.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG47,A.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG47,A.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG47,A.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG47,A.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG48,A.2.3 Utlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,186341
 1130,Strand,KG48,A.2.3 Utlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,198011
 1130,Strand,KG48,A.2.3 Utlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,217569
 1130,Strand,KG48,A.2.3 Utlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,257190
 1130,Strand,KG48,A.2.3 Utlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,266965
+1130,Strand,KG48,A.2.3 Utlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,186341
+1130,Strand,KG48,A.2.3 Utlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,198011
+1130,Strand,KG48,A.2.3 Utlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,217569
+1130,Strand,KG48,A.2.3 Utlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,257190
+1130,Strand,KG48,A.2.3 Utlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,266965
 1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG109,A.2.4 Konserninterne langsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG49,A.3. Immaterielle eiendeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG49,A.3. Immaterielle eiendeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG49,A.3. Immaterielle eiendeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG49,A.3. Immaterielle eiendeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG49,A.3. Immaterielle eiendeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG49,A.3. Immaterielle eiendeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG49,A.3. Immaterielle eiendeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG49,A.3. Immaterielle eiendeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG49,A.3. Immaterielle eiendeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG49,A.3. Immaterielle eiendeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG50,A.4 Pensjonsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,993696
 1130,Strand,KG50,A.4 Pensjonsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,968229
 1130,Strand,KG50,A.4 Pensjonsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1022601
 1130,Strand,KG50,A.4 Pensjonsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1124682
 1130,Strand,KG50,A.4 Pensjonsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1218854
+1130,Strand,KG50,A.4 Pensjonsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,993696
+1130,Strand,KG50,A.4 Pensjonsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,968229
+1130,Strand,KG50,A.4 Pensjonsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1022601
+1130,Strand,KG50,A.4 Pensjonsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1124682
+1130,Strand,KG50,A.4 Pensjonsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1218854
 1130,Strand,KG97,B. Omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,401767
 1130,Strand,KG97,B. Omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,422502
 1130,Strand,KG97,B. Omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,417101
 1130,Strand,KG97,B. Omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,484058
 1130,Strand,KG97,B. Omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,366035
+1130,Strand,KG97,B. Omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,401767
+1130,Strand,KG97,B. Omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,422502
+1130,Strand,KG97,B. Omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,417101
+1130,Strand,KG97,B. Omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,484058
+1130,Strand,KG97,B. Omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,366035
 1130,Strand,KG52,B.1 Bankinnskudd,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,322796
 1130,Strand,KG52,B.1 Bankinnskudd,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,327810
 1130,Strand,KG52,B.1 Bankinnskudd,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,343260
 1130,Strand,KG52,B.1 Bankinnskudd,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,360773
 1130,Strand,KG52,B.1 Bankinnskudd,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,257382
+1130,Strand,KG52,B.1 Bankinnskudd,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,322796
+1130,Strand,KG52,B.1 Bankinnskudd,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,327810
+1130,Strand,KG52,B.1 Bankinnskudd,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,343260
+1130,Strand,KG52,B.1 Bankinnskudd,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,360773
+1130,Strand,KG52,B.1 Bankinnskudd,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,257382
 1130,Strand,KG53,B.2 Finansielle omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG53,B.2 Finansielle omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG53,B.2 Finansielle omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG53,B.2 Finansielle omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG53,B.2 Finansielle omløpsmidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG53,B.2 Finansielle omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG53,B.2 Finansielle omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG53,B.2 Finansielle omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG53,B.2 Finansielle omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG53,B.2 Finansielle omløpsmidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG54,B.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG54,B.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG54,B.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG54,B.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG54,B.2.1 Aksjer og andeler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG54,B.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG54,B.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG54,B.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG54,B.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG54,B.2.1 Aksjer og andeler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG55,B.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG55,B.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG55,B.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG55,B.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG55,B.2.2 Obligasjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG55,B.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG55,B.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG55,B.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG55,B.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG55,B.2.2 Obligasjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG56,B.2.3 Sertifikater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG56,B.2.3 Sertifikater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG56,B.2.3 Sertifikater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG56,B.2.3 Sertifikater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG56,B.2.3 Sertifikater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG56,B.2.3 Sertifikater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG56,B.2.3 Sertifikater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG56,B.2.3 Sertifikater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG56,B.2.3 Sertifikater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG56,B.2.3 Sertifikater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG57,B.2.4 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG57,B.2.4 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG57,B.2.4 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG57,B.2.4 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG57,B.2.4 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG57,B.2.4 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG57,B.2.4 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG57,B.2.4 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG57,B.2.4 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG57,B.2.4 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG106,B.3 Kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,78971
 1130,Strand,KG106,B.3 Kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,94692
 1130,Strand,KG106,B.3 Kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,73841
 1130,Strand,KG106,B.3 Kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,123285
 1130,Strand,KG106,B.3 Kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,108653
+1130,Strand,KG106,B.3 Kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,78971
+1130,Strand,KG106,B.3 Kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,94692
+1130,Strand,KG106,B.3 Kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,73841
+1130,Strand,KG106,B.3 Kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,123285
+1130,Strand,KG106,B.3 Kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,108653
 1130,Strand,KG59,B.3.1 Kundefordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,6995
 1130,Strand,KG59,B.3.1 Kundefordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,19918
 1130,Strand,KG59,B.3.1 Kundefordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,19314
 1130,Strand,KG59,B.3.1 Kundefordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,20030
 1130,Strand,KG59,B.3.1 Kundefordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,30788
+1130,Strand,KG59,B.3.1 Kundefordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,6995
+1130,Strand,KG59,B.3.1 Kundefordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,19918
+1130,Strand,KG59,B.3.1 Kundefordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,19314
+1130,Strand,KG59,B.3.1 Kundefordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,20030
+1130,Strand,KG59,B.3.1 Kundefordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,30788
 1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,54912
 1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,52750
 1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,46582
 1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,55368
 1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,48604
+1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,54912
+1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,52750
+1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,46582
+1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,55368
+1130,Strand,KG60,B.3.2 Andre kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,48604
 1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG98,B.3.3 Konserninterne kortsiktige fordringer,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG61,B.3.4 Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,17064
 1130,Strand,KG61,B.3.4 Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,22024
 1130,Strand,KG61,B.3.4 Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,7945
 1130,Strand,KG61,B.3.4 Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,47887
 1130,Strand,KG61,B.3.4 Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,29261
+1130,Strand,KG61,B.3.4 Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,17064
+1130,Strand,KG61,B.3.4 Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,22024
+1130,Strand,KG61,B.3.4 Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,7945
+1130,Strand,KG61,B.3.4 Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,47887
+1130,Strand,KG61,B.3.4 Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,29261
 1130,Strand,KG99,Sum eiendeler (A+B),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,3323440
 1130,Strand,KG99,Sum eiendeler (A+B),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,3606302
 1130,Strand,KG99,Sum eiendeler (A+B),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,3845346
 1130,Strand,KG99,Sum eiendeler (A+B),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,4089203
 1130,Strand,KG99,Sum eiendeler (A+B),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,4140805
+1130,Strand,KG99,Sum eiendeler (A+B),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,3323440
+1130,Strand,KG99,Sum eiendeler (A+B),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,3606302
+1130,Strand,KG99,Sum eiendeler (A+B),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,3845346
+1130,Strand,KG99,Sum eiendeler (A+B),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,4089203
+1130,Strand,KG99,Sum eiendeler (A+B),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,4140805
 1130,Strand,KG63,C. Egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,927276
 1130,Strand,KG63,C. Egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1033349
 1130,Strand,KG63,C. Egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1033855
 1130,Strand,KG63,C. Egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1070533
 1130,Strand,KG63,C. Egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1050918
+1130,Strand,KG63,C. Egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,927276
+1130,Strand,KG63,C. Egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1033349
+1130,Strand,KG63,C. Egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1033855
+1130,Strand,KG63,C. Egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1070533
+1130,Strand,KG63,C. Egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1050918
 1130,Strand,KG64,C.1 Egenkapital drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,204317
 1130,Strand,KG64,C.1 Egenkapital drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,217664
 1130,Strand,KG64,C.1 Egenkapital drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,198679
 1130,Strand,KG64,C.1 Egenkapital drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,144106
 1130,Strand,KG64,C.1 Egenkapital drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,91413
+1130,Strand,KG64,C.1 Egenkapital drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,204317
+1130,Strand,KG64,C.1 Egenkapital drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,217664
+1130,Strand,KG64,C.1 Egenkapital drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,198679
+1130,Strand,KG64,C.1 Egenkapital drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,144106
+1130,Strand,KG64,C.1 Egenkapital drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,91413
 1130,Strand,KG65,C.1.1 Disposisjonsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,131033
 1130,Strand,KG65,C.1.1 Disposisjonsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,140068
 1130,Strand,KG65,C.1.1 Disposisjonsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,121039
 1130,Strand,KG65,C.1.1 Disposisjonsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,76839
 1130,Strand,KG65,C.1.1 Disposisjonsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,19624
+1130,Strand,KG65,C.1.1 Disposisjonsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,131033
+1130,Strand,KG65,C.1.1 Disposisjonsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,140068
+1130,Strand,KG65,C.1.1 Disposisjonsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,121039
+1130,Strand,KG65,C.1.1 Disposisjonsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,76839
+1130,Strand,KG65,C.1.1 Disposisjonsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,19624
 1130,Strand,KG66,C.1.2 Bundne driftsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,73284
 1130,Strand,KG66,C.1.2 Bundne driftsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,77596
 1130,Strand,KG66,C.1.2 Bundne driftsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,77640
 1130,Strand,KG66,C.1.2 Bundne driftsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,67267
 1130,Strand,KG66,C.1.2 Bundne driftsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,71789
+1130,Strand,KG66,C.1.2 Bundne driftsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,73284
+1130,Strand,KG66,C.1.2 Bundne driftsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,77596
+1130,Strand,KG66,C.1.2 Bundne driftsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,77640
+1130,Strand,KG66,C.1.2 Bundne driftsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,67267
+1130,Strand,KG66,C.1.2 Bundne driftsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,71789
 1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG67,C.1.3 Merforbruk i driftsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG68,C.2 Egenkapital investering,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,10384
 1130,Strand,KG68,C.2 Egenkapital investering,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,5630
 1130,Strand,KG68,C.2 Egenkapital investering,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,5570
 1130,Strand,KG68,C.2 Egenkapital investering,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,35141
 1130,Strand,KG68,C.2 Egenkapital investering,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,35232
+1130,Strand,KG68,C.2 Egenkapital investering,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,10384
+1130,Strand,KG68,C.2 Egenkapital investering,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,5630
+1130,Strand,KG68,C.2 Egenkapital investering,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,5570
+1130,Strand,KG68,C.2 Egenkapital investering,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,35141
+1130,Strand,KG68,C.2 Egenkapital investering,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,35232
 1130,Strand,KG69,C.2.1 Ubundet investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,4520
 1130,Strand,KG69,C.2.1 Ubundet investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,4520
 1130,Strand,KG69,C.2.1 Ubundet investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,4520
 1130,Strand,KG69,C.2.1 Ubundet investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,33517
 1130,Strand,KG69,C.2.1 Ubundet investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,33517
+1130,Strand,KG69,C.2.1 Ubundet investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,4520
+1130,Strand,KG69,C.2.1 Ubundet investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,4520
+1130,Strand,KG69,C.2.1 Ubundet investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,4520
+1130,Strand,KG69,C.2.1 Ubundet investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,33517
+1130,Strand,KG69,C.2.1 Ubundet investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,33517
 1130,Strand,KG70,C.2.2 Bundne investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,5864
 1130,Strand,KG70,C.2.2 Bundne investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1110
 1130,Strand,KG70,C.2.2 Bundne investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1050
 1130,Strand,KG70,C.2.2 Bundne investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1624
 1130,Strand,KG70,C.2.2 Bundne investeringsfond,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1715
+1130,Strand,KG70,C.2.2 Bundne investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,5864
+1130,Strand,KG70,C.2.2 Bundne investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1110
+1130,Strand,KG70,C.2.2 Bundne investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1050
+1130,Strand,KG70,C.2.2 Bundne investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1624
+1130,Strand,KG70,C.2.2 Bundne investeringsfond,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1715
 1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG71,C.2.3 Udekket beløp i investeringsregnskapet,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG72,C.3 Annen egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,712575
 1130,Strand,KG72,C.3 Annen egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,810055
 1130,Strand,KG72,C.3 Annen egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,829606
 1130,Strand,KG72,C.3 Annen egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,891286
 1130,Strand,KG72,C.3 Annen egenkapital,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,924273
+1130,Strand,KG72,C.3 Annen egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,712575
+1130,Strand,KG72,C.3 Annen egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,810055
+1130,Strand,KG72,C.3 Annen egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,829606
+1130,Strand,KG72,C.3 Annen egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,891286
+1130,Strand,KG72,C.3 Annen egenkapital,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,924273
 1130,Strand,KG73,C.3.1 Kapitalkonto,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,718692
 1130,Strand,KG73,C.3.1 Kapitalkonto,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,816172
 1130,Strand,KG73,C.3.1 Kapitalkonto,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,835723
 1130,Strand,KG73,C.3.1 Kapitalkonto,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,897403
 1130,Strand,KG73,C.3.1 Kapitalkonto,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,930390
+1130,Strand,KG73,C.3.1 Kapitalkonto,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,718692
+1130,Strand,KG73,C.3.1 Kapitalkonto,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,816172
+1130,Strand,KG73,C.3.1 Kapitalkonto,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,835723
+1130,Strand,KG73,C.3.1 Kapitalkonto,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,897403
+1130,Strand,KG73,C.3.1 Kapitalkonto,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,930390
 1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-6117
 1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-6117
 1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-6117
 1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,-6117
 1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-6117
+1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-6117
+1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-6117
+1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-6117
+1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,-6117
+1130,Strand,KG74,C.3.2 Prinsippendringer som påvirker arbeidskapitalen drift,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-6117
 1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG75,"C.3.3 Prinsippendringer som påvirker arbeidskapitalen, investering",C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG100,D. Langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,2252663
 1130,Strand,KG100,D. Langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,2399951
 1130,Strand,KG100,D. Langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,2643241
 1130,Strand,KG100,D. Langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,2817141
 1130,Strand,KG100,D. Langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,2900885
+1130,Strand,KG100,D. Langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,2252663
+1130,Strand,KG100,D. Langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,2399951
+1130,Strand,KG100,D. Langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,2643241
+1130,Strand,KG100,D. Langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,2817141
+1130,Strand,KG100,D. Langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,2900885
 1130,Strand,KG101,D.1 Lån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1241543
 1130,Strand,KG101,D.1 Lån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1423897
 1130,Strand,KG101,D.1 Lån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1585402
 1130,Strand,KG101,D.1 Lån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1698635
 1130,Strand,KG101,D.1 Lån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1698760
+1130,Strand,KG101,D.1 Lån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1241543
+1130,Strand,KG101,D.1 Lån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1423897
+1130,Strand,KG101,D.1 Lån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1585402
+1130,Strand,KG101,D.1 Lån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1698635
+1130,Strand,KG101,D.1 Lån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1698760
 1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1241543
 1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1423897
 1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1585402
 1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1698635
 1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1698760
+1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1241543
+1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1423897
+1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1585402
+1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1698635
+1130,Strand,KG102,D.1.1 Gjeld til kredittinstitusjoner,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1698760
 1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG112,D.1.2 Konsernintern langsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG79,D.1.3 Obligasjonslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG79,D.1.3 Obligasjonslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG79,D.1.3 Obligasjonslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG79,D.1.3 Obligasjonslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG79,D.1.3 Obligasjonslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG79,D.1.3 Obligasjonslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG79,D.1.3 Obligasjonslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG79,D.1.3 Obligasjonslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG79,D.1.3 Obligasjonslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG79,D.1.3 Obligasjonslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG80,D.1.4 Obligasjonslån med forfall i neste regnskapsår,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG81,D.1.5 Sertifikatlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG81,D.1.5 Sertifikatlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG81,D.1.5 Sertifikatlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG81,D.1.5 Sertifikatlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG81,D.1.5 Sertifikatlån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG81,D.1.5 Sertifikatlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG81,D.1.5 Sertifikatlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG81,D.1.5 Sertifikatlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG81,D.1.5 Sertifikatlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG81,D.1.5 Sertifikatlån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG82,D.3 Pensjonsforpliktelse,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1011120
 1130,Strand,KG82,D.3 Pensjonsforpliktelse,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,976054
 1130,Strand,KG82,D.3 Pensjonsforpliktelse,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1057839
 1130,Strand,KG82,D.3 Pensjonsforpliktelse,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1118506
 1130,Strand,KG82,D.3 Pensjonsforpliktelse,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1202125
+1130,Strand,KG82,D.3 Pensjonsforpliktelse,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1011120
+1130,Strand,KG82,D.3 Pensjonsforpliktelse,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,976054
+1130,Strand,KG82,D.3 Pensjonsforpliktelse,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1057839
+1130,Strand,KG82,D.3 Pensjonsforpliktelse,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1118506
+1130,Strand,KG82,D.3 Pensjonsforpliktelse,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1202125
 1130,Strand,KG103,E. Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,143502
 1130,Strand,KG103,E. Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,172997
 1130,Strand,KG103,E. Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,168246
 1130,Strand,KG103,E. Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,201530
 1130,Strand,KG103,E. Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,189000
+1130,Strand,KG103,E. Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,143502
+1130,Strand,KG103,E. Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,172997
+1130,Strand,KG103,E. Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,168246
+1130,Strand,KG103,E. Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,201530
+1130,Strand,KG103,E. Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,189000
 1130,Strand,KG104,E.1 Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,143502
 1130,Strand,KG104,E.1 Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,172997
 1130,Strand,KG104,E.1 Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,168246
 1130,Strand,KG104,E.1 Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,201530
 1130,Strand,KG104,E.1 Kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,189000
+1130,Strand,KG104,E.1 Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,143502
+1130,Strand,KG104,E.1 Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,172997
+1130,Strand,KG104,E.1 Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,168246
+1130,Strand,KG104,E.1 Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,201530
+1130,Strand,KG104,E.1 Kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,189000
 1130,Strand,KG85,E.1.1 Leverandørgjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,51923
 1130,Strand,KG85,E.1.1 Leverandørgjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,61322
 1130,Strand,KG85,E.1.1 Leverandørgjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,51467
 1130,Strand,KG85,E.1.1 Leverandørgjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,69223
 1130,Strand,KG85,E.1.1 Leverandørgjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,48901
+1130,Strand,KG85,E.1.1 Leverandørgjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,51923
+1130,Strand,KG85,E.1.1 Leverandørgjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,61322
+1130,Strand,KG85,E.1.1 Leverandørgjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,51467
+1130,Strand,KG85,E.1.1 Leverandørgjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,69223
+1130,Strand,KG85,E.1.1 Leverandørgjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,48901
 1130,Strand,KG86,E.1.2 Likviditetslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG86,E.1.2 Likviditetslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG86,E.1.2 Likviditetslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG86,E.1.2 Likviditetslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG86,E.1.2 Likviditetslån,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG86,E.1.2 Likviditetslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG86,E.1.2 Likviditetslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG86,E.1.2 Likviditetslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG86,E.1.2 Likviditetslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG86,E.1.2 Likviditetslån,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG87,E.1.3 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG87,E.1.3 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG87,E.1.3 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG87,E.1.3 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG87,E.1.3 Derivater,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG87,E.1.3 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG87,E.1.3 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG87,E.1.3 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG87,E.1.3 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG87,E.1.3 Derivater,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,91018
 1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,111675
 1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,116779
 1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,132307
 1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,140099
+1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,91018
+1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,111675
+1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,116779
+1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,132307
+1130,Strand,KG88,E.1.4 Annen kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,140099
 1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG110,E.1.5 Konsernintern kortsiktig gjeld,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG89,E.1.6  Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,561
 1130,Strand,KG89,E.1.6  Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG89,E.1.6  Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG89,E.1.6  Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG89,E.1.6  Premieavvik,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0
+1130,Strand,KG89,E.1.6  Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,561
+1130,Strand,KG89,E.1.6  Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG89,E.1.6  Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG89,E.1.6  Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG89,E.1.6  Premieavvik,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0
 1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,3323441
 1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,3606297
 1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,3845342
 1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,4089204
 1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,4140803
+1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,3323441
+1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,3606297
+1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,3845342
+1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,4089204
+1130,Strand,KG107,Sum egenkapital og gjeld (C+D+E),C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,4140803
 1130,Strand,KG105,F. Memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0
 1130,Strand,KG105,F. Memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0
 1130,Strand,KG105,F. Memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0
 1130,Strand,KG105,F. Memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0
 1130,Strand,KG105,F. Memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-1
+1130,Strand,KG105,F. Memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0
+1130,Strand,KG105,F. Memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0
+1130,Strand,KG105,F. Memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0
+1130,Strand,KG105,F. Memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0
+1130,Strand,KG105,F. Memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-1
 1130,Strand,KG108,F.1.1 Ubrukte lånemidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,49683
 1130,Strand,KG108,F.1.1 Ubrukte lånemidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,32325
 1130,Strand,KG108,F.1.1 Ubrukte lånemidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,50720
 1130,Strand,KG108,F.1.1 Ubrukte lånemidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,109401
 1130,Strand,KG108,F.1.1 Ubrukte lånemidler,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,56506
+1130,Strand,KG108,F.1.1 Ubrukte lånemidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,49683
+1130,Strand,KG108,F.1.1 Ubrukte lånemidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,32325
+1130,Strand,KG108,F.1.1 Ubrukte lånemidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,50720
+1130,Strand,KG108,F.1.1 Ubrukte lånemidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,109401
+1130,Strand,KG108,F.1.1 Ubrukte lånemidler,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,56506
 1130,Strand,KG93,F.1.2 Andre memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1042
 1130,Strand,KG93,F.1.2 Andre memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1042
 1130,Strand,KG93,F.1.2 Andre memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1042
 1130,Strand,KG93,F.1.2 Andre memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1042
 1130,Strand,KG93,F.1.2 Andre memoriakonti,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,4400
+1130,Strand,KG93,F.1.2 Andre memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1042
+1130,Strand,KG93,F.1.2 Andre memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1042
+1130,Strand,KG93,F.1.2 Andre memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1042
+1130,Strand,KG93,F.1.2 Andre memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1042
+1130,Strand,KG93,F.1.2 Andre memoriakonti,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,4400
 1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-50725
 1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-33367
 1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-51762
 1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,-110443
 1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-60907
+1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-50725
+1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-33367
+1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-51762
+1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,-110443
+1130,Strand,KG94,F.1.3 Motkonto for memoriakontiene,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-60907

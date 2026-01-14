@@ -1,106 +1,421 @@
 KOKartkap0000_kode,KOKartkap0000,KOKkommuneregion0000_kode,KOKkommuneregion0000,KOKregnskapsomfa0000_kode,KOKregnskapsomfa0000,ContentsCode_kode,ContentsCode,Tid_kode,Tid,verdi
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,241762.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,227481.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,240910.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,234641.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,147774.0
 KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,22.7
 KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,19.7
 KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,19.5
 KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,17.9
 KG114,Arbeidskapital ex. premieavvik,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,10.5
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,241762.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,227481.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,240910.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,234641.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,147774.0
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,22.7
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,19.7
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,19.5
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,17.9
+KG114,Arbeidskapital ex. premieavvik,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,10.5
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,33443.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,40412.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,44154.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,49194.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,53527.0
 AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,3.1
 AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,3.5
 AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,3.6
 AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,3.7
 AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,3.8
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,33443.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,40412.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,44154.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,49194.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,53527.0
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,3.1
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,3.5
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,3.6
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,3.7
+AGD21,Avdrag (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,3.8
+AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-16764.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-4288.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-45.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,10374.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-4521.0
 AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-1.6
 AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-0.4
 AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
 AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.8
 AGD74,Avsetning til bundne fond (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-0.3
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-16764.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-4288.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-45.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,10374.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-4521.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-1.6
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-0.4
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.8
+AGD74,Avsetning til bundne fond (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-0.3
+AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,4520.0
+AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,4038.0
+AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-10407.0
+AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,-37203.0
+AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-45086.0
 AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.4
 AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.4
 AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.8
 AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-2.8
 AGD18,Brutto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-3.2
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,4520.0
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,4038.0
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-10407.0
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,-37203.0
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-45086.0
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.4
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.4
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.8
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-2.8
+AGD18,Brutto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-3.2
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,371418.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,334476.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,239505.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,137385.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,143851.0
 AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,34.8
 AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,29.0
 AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,19.4
 AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,10.5
 AGI1,Brutto investeringsutgifter totalt,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,10.3
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,371418.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,334476.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,239505.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,137385.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,143851.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,34.8
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,29.0
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,19.4
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,10.5
+AGI1,Brutto investeringsutgifter totalt,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,10.3
+56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,131033.0
+56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,140068.0
+56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,121039.0
+56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,76839.0
+56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,19624.0
 56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,12.3
 56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,12.1
 56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,9.8
 56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,5.9
 56,Disposisjonsfond (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.4
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,131033.0
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,140068.0
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,121039.0
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,76839.0
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,19624.0
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,12.3
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,12.1
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,9.8
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,5.9
+56,Disposisjonsfond (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.4
+KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,131033.0
+KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,140068.0
+KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,121039.0
+KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,76839.0
+KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,19624.0
 KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,12.3
 KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,12.1
 KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,9.8
 KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,5.9
 KG21,Fri egenkapital drift,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.4
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,131033.0
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,140068.0
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,121039.0
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,76839.0
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,19624.0
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,12.3
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,12.1
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,9.8
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,5.9
+KG21,Fri egenkapital drift,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.4
+KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,2252663.0
+KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,2399951.0
+KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,2643241.0
+KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,2817141.0
+KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,2900885.0
 KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,211.1
 KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,208.1
 KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,214.2
 KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,214.7
 KG115,Langsiktig gjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,207.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,2252663.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,2399951.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,2643241.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,2817141.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,2900885.0
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,211.1
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,208.1
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,214.2
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,214.7
+KG115,Langsiktig gjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,207.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
 5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
 5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
 5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
 5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
 5900,Merforbruk i driftsregnskapet (K),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
+5900,Merforbruk i driftsregnskapet (K),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,23218.0
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,20635.0
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-3689.0
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,-25115.0
+AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-52691.0
 AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,2.2
 AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,1.8
 AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.3
 AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-1.9
 AGD23,Netto driftsresultat,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-3.8
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,23218.0
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,20635.0
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-3689.0
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,-25115.0
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-52691.0
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,2.2
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,1.8
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.3
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-1.9
+AGD23,Netto driftsresultat,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-3.8
+AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,84669.0
 AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
 AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
 AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
 AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
 AGD86,Netto finansutgifter (D),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,6.0
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,84669.0
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
+AGD86,Netto finansutgifter (D),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,6.0
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1005519.0
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,1193561.0
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1317113.0
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1332044.0
+KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1375289.0
 KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,94.2
 KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,103.5
 KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,106.7
 KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,101.5
 KG117,Netto lånegjeld,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,98.1
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1005519.0
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,1193561.0
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1317113.0
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1332044.0
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1375289.0
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,94.2
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,103.5
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,106.7
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,101.5
+KG117,Netto lånegjeld,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,98.1
+AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-176678.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-177498.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-137916.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,-68392.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-95537.0
 AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-16.6
 AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-15.4
 AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-11.2
 AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-5.2
 AGID1,Overskudd før lån og avsetninger,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-6.8
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-176678.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-177498.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-137916.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,-68392.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-95537.0
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-16.6
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-15.4
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-11.2
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,-5.2
+AGID1,Overskudd før lån og avsetninger,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,-6.8
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,1011120.0
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,976054.0
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,1057839.0
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,1118506.0
+40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,1202125.0
 40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,94.7
 40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,84.6
 40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,85.7
 40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,85.2
 40,Pensjonsforpliktelse,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,85.8
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,1011120.0
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,976054.0
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,1057839.0
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,1118506.0
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,1202125.0
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,94.7
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,84.6
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,85.7
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,85.2
+40,Pensjonsforpliktelse,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,85.8
+AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,49643.0
 AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
 AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
 AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
 AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
 AGD97,Renter (netto),1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,3.5
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,49643.0
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
+AGD97,Renter (netto),1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,3.5
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-2080.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-1664.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,7376.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,10026.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,
 AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-0.2
 AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-0.1
 AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.6
 AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.8
 AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-2080.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-1664.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,7376.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,10026.0
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-0.2
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,-0.1
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.6
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.8
+AGD24,Renter (netto) inkl. utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
 AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
 AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
 AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
 AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
 AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
+AGD25,Tap/gevinst (netto) på finansielle omløpsmidler,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,18863.0
 AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
 AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
 AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
 AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
 AD905,Utbytte og eieruttak,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.3
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,18863.0
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,
+AD905,Utbytte og eieruttak,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,1.3
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,-695.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,-242.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,-1021.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,129.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,-82.0
 AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-0.1
 AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
 AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.1
 AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
 AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,-695.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,-242.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,-1021.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,129.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,-82.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,-0.1
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,-0.1
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
+AGD73,Utlån (netto) i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
 AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
 AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
 AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
 AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
 AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
+AGD29,Årets merforbruk i driftsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
 AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
 AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
 AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
 AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
 AGI7,Årets udekket i investeringsregnskapet,1130,Strand,B,(Fylkes-)Kommunekasse,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2020,2020,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2021,2021,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2022,2022,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2023,2023,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelop0000,Beløp (1000 kr),2024,2024,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2020,2020,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2021,2021,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2022,2022,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2023,2023,0.0
+AGI7,Årets udekket i investeringsregnskapet,1130,Strand,C,(Fylkes-)Kommuners konsoliderte regnskap,KOSbelopbrinv0000,Andel av brutto driftsinntekter (prosent),2024,2024,0.0
