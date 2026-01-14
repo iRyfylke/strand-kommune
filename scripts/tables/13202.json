@@ -1,0 +1,35 @@
+{
+  "query": [
+    {
+      "code": "KOKkapittel0000",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
+      "code": "KOKkommuneregion0000",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": ["KOSbelop0000"]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    }
+  ],
+  "response": {
+    "format": "JSON"
+  }
+}
