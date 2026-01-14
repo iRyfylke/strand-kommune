@@ -10,8 +10,14 @@
     {
       "code": "KOKart0000",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": [
+          "A800","AGD75","AG10","AGD76","AGD77","AGD78","A600","AGD96","AGD45",
+          "AG15","AG35","AG17","AGD51","AGD80","A590","AGD46","AG18","AGD65",
+          "AGD79","AGD81","AGD83","AGD82","AG5","AGD85","AGD87","AGD84","AGD89",
+          "570","550","950","540","940","AD930","AD530","AGD93","AGD94","AG19",
+          "AG21","AG23","AG25","AG28","AG29","AG31","AG32"
+        ]
       }
     },
     {
@@ -25,11 +31,11 @@
       "code": "Tid",
       "selection": {
         "filter": "all",
-        "values": []
+        "values": ["*"]
       }
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "json-stat2"
   }
 }
