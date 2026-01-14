@@ -1,6 +1,13 @@
 {
   "query": [
     {
+      "code": "KOKartkap0000",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
       "code": "KOKkommuneregion0000",
       "selection": {
         "filter": "item",
@@ -11,14 +18,7 @@
       "code": "KOKregnskapsomfa0000",
       "selection": {
         "filter": "item",
-        "values": ["B"]
-      }
-    },
-    {
-      "code": "KOKartkap0000",
-      "selection": {
-        "filter": "item",
-        "values": ["AGD13"]
+        "values": ["B", "C"]
       }
     },
     {
@@ -27,9 +27,16 @@
         "filter": "item",
         "values": ["KOSbelop0000"]
       }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
+      }
     }
   ],
   "response": {
-    "format": "json-stat2"
+    "format": "JSON"
   }
 }
