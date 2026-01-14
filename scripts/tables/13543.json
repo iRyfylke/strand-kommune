@@ -11,7 +11,7 @@
       "code": "KOKregnskapsomfa0000",
       "selection": {
         "filter": "item",
-        "values": ["B"]
+        "values": ["B", "C"]
       }
     },
     {
@@ -31,6 +31,13 @@
       "selection": {
         "filter": "item",
         "values": ["KOSbelop0000"]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": ["2020","2021","2022","2023","2024"]
       }
     }
   ],
