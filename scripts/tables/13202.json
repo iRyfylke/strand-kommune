@@ -3,8 +3,16 @@
     {
       "code": "KOKkapittel0000",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": [
+          "KG41","KG42","KG43","KG44","KG45","KG46","KG47","KG48","KG109",
+          "KG49","KG50","KG51","KG52","KG53","KG54","KG55","KG56","KG57",
+          "KG58","KG59","KG60","KG98","KG61","KG111","KG62","KG63","KG64",
+          "KG65","KG66","KG67","KG68","KG69","KG70","KG71","KG72","KG73",
+          "KG74","KG75","KG76","KG77","KG78","KG112","KG79","KG80","KG81",
+          "KG113","KG82","KG83","KG84","KG85","KG86","KG87","KG88","KG110",
+          "KG89","KG90","KG91","KG92","KG93","KG94","KG33","KG34","KG35","KG36"
+        ]
       }
     },
     {
@@ -24,12 +32,12 @@
     {
       "code": "Tid",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": ["2020","2021","2022","2023","2024"]
       }
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "json-stat2"
   }
 }
