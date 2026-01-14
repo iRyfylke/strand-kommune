@@ -10,15 +10,22 @@
     {
       "code": "KOKregnskapsomfa0000",
       "selection": {
-        "filter": "item",
-        "values": ["B"]
+        "filter": "all",
+        "values": ["*"]
       }
     },
     {
       "code": "ContentsCode",
       "selection": {
-        "filter": "item",
-        "values": ["KOSAGD230000"]
+        "filter": "all",
+        "values": ["*"]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
       }
     }
   ],
