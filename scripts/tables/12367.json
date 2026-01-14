@@ -36,13 +36,10 @@
       "selection": {
         "filter": "item",
         "values": [
-          "AG16","AGD10","AGD2","AGD4","AGI5",
-          "AGK1","AGK2","AGK3","AGK4","AGK5",
-          "AGK6","AGK7","AGK8","AGK9","AGK10",
-          "AGK11","AGK12","AGK13","AGK14","AGK15",
-          "AGK16","AGK17","AGK18","AGK19","AGK20",
-          "AGK21","AGK22","AGK23","AGK24","AGK25",
-          "AGK26","AGK27","AGK28","AGK29","AGK30"
+          "AGD4","AGD10","AGD2","AG16","A710","A090","A099","AGD50","A260","A270",
+          "AGD51","AG2","A370","AG3","AG34","AG4","A470","AG52","A429","A590",
+          "AGD59","AGD43","AGD14","A600","AGD34","AG48","AG9","AD770","AGD53",
+          "AD729","AGD49","A890","AGD54","AGD56","AGD28"
         ]
       }
     },
