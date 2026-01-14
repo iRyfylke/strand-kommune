@@ -11,7 +11,14 @@
       "code": "ContentsCode",
       "selection": {
         "filter": "all",
-        "values": []
+        "values": ["*"]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "all",
+        "values": ["*"]
       }
     }
   ],
