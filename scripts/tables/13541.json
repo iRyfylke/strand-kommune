@@ -3,8 +3,16 @@
     {
       "code": "KOKartkap0000",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": [
+          "41",
+          "411",
+          "412",
+          "42",
+          "43",
+          "431",
+          "AGD21"
+        ]
       }
     },
     {
@@ -24,8 +32,11 @@
     {
       "code": "ContentsCode",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": [
+          "KOSbelop0000",
+          "KOSbelopproslg0000"
+        ]
       }
     },
     {
@@ -37,6 +48,6 @@
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "json-stat2"
   }
 }
