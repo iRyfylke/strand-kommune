@@ -10,15 +10,23 @@
     {
       "code": "KOKkapittel0000",
       "selection": {
-        "filter": "all",
-        "values": ["*"]
+        "filter": "item",
+        "values": [
+          "KG95","KG42","KG43","KG44","KG96","KG46","KG47","KG48","KG109",
+          "KG49","KG50","KG97","KG52","KG53","KG54","KG55","KG56","KG57",
+          "KG106","KG59","KG60","KG98","KG61","KG99","KG63","KG64","KG65",
+          "KG66","KG67","KG68","KG69","KG70","KG71","KG72","KG73","KG74",
+          "KG75","KG100","KG101","KG102","KG112","KG79","KG80","KG81","KG82",
+          "KG103","KG104","KG85","KG86","KG87","KG88","KG110","KG89","KG107",
+          "KG105","KG108","KG93","KG94"
+        ]
       }
     },
     {
       "code": "KOKregnskapsomfa0000",
       "selection": {
-        "filter": "all",
-        "values": ["*"]
+        "filter": "item",
+        "values": ["B", "C"]
       }
     },
     {
@@ -37,6 +45,6 @@
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "JSON-STAT2"
   }
 }
