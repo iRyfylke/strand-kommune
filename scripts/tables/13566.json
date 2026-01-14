@@ -5,7 +5,7 @@
       "code": "KOKkommuneregion0000",
       "selection": {
         "filter": "item",
-        "values": ["2111"]
+        "values": ["1130"]
       }
     },
     {
@@ -19,7 +19,7 @@
       "code": "KOKartkap0000",
       "selection": {
         "filter": "all",
-        "values": ["*"]
+        "values": []
       }
     },
     {
