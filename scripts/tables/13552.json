@@ -3,15 +3,15 @@
     {
       "code": "KOKkommuneregion0000",
       "selection": {
-        "filter": "all",
-        "values": ["*"]
+        "filter": "item",
+        "values": ["1130"]
       }
     },
     {
       "code": "KOKart0000",
       "selection": {
         "filter": "all",
-        "values": ["*"]
+        "values": []
       }
     },
     {
@@ -25,7 +25,7 @@
       "code": "Tid",
       "selection": {
         "filter": "all",
-        "values": ["*"]
+        "values": []
       }
     }
   ],
