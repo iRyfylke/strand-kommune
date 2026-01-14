@@ -1,6 +1,16 @@
 {
-  "table": "13566",
   "query": [
+    {
+      "code": "KOKartkap0000",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "KG114","AGD21","AGD74","AGD18","AGI1","56","KG21","KG115","5900",
+          "AGD23","AGD86","KG117","AGID1","40","AGD97","AGD24","AGD25","AD905",
+          "AGD73","AGD29","AGI7"
+        ]
+      }
+    },
     {
       "code": "KOKkommuneregion0000",
       "selection": {
@@ -16,28 +26,24 @@
       }
     },
     {
-      "code": "KOKartkap0000",
-      "selection": {
-        "filter": "all",
-        "values": []
-      }
-    },
-    {
       "code": "ContentsCode",
       "selection": {
         "filter": "item",
-        "values": ["KOSbelop0000", "KOSbelopbrinv0000"]
+        "values": [
+          "KOSbelop0000",
+          "KOSbelopbrinv0000"
+        ]
       }
     },
     {
       "code": "Tid",
       "selection": {
-        "filter": "item",
-        "values": ["2020", "2021", "2022", "2023", "2024"]
+        "filter": "all",
+        "values": ["*"]
       }
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "json-stat2"
   }
 }
