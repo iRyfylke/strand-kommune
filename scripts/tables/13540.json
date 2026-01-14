@@ -3,8 +3,11 @@
     {
       "code": "KOKartkap0000",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": [
+          "AGD9","AGD3","AGD1","AGD13","AGD23","AG12","A800","AG10","AG11",
+          "AGD20","AGI1","KG117","KG116","40"
+        ]
       }
     },
     {
@@ -24,19 +27,19 @@
     {
       "code": "ContentsCode",
       "selection": {
-        "filter": "all",
-        "values": []
+        "filter": "item",
+        "values": ["KOSbelop0000", "KOSbelopprinnb0000"]
       }
     },
     {
       "code": "Tid",
       "selection": {
         "filter": "item",
-        "values": ["2020", "2021", "2022", "2023", "2024"]
+        "values": ["2020","2021","2022","2023","2024"]
       }
     }
   ],
   "response": {
-    "format": "JSON"
+    "format": "json-stat2"
   }
 }
