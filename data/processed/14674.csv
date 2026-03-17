@@ -15,9 +15,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2020,2020,1.0
 1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2021,2021,1.0
 1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2022,2022,1.0
-1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2023,2023,1.0
+1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2024,2024,1.0
+1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2025,2025,1.0
+1130,Strand,KOShareskatt0000,"Har kommunen innført eiendomsskatt? (ja=1, nei=0)",2026,2026,1.0
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2007,2007,1.0
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2008,2008,1.0
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2009,2009,1.0
@@ -34,9 +35,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2020,2020,1.0
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2021,2021,1.0
 1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2022,2022,1.0
-1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2023,2023,
-1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2024,2024,
-1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2025,2025,
+1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2023,2023,1.0
+1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2024,2024,1.0
+1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2025,2025,1.0
+1130,Strand,KOShelekommunen0000,"Har eiendomsskatt i hele kommunen (ja=1, nei=0)",2026,2026,1.0
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2007,2007,
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2008,2008,
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2009,2009,
@@ -53,9 +55,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,
-1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,
-1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,
+1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOShelekommunenu0000,"Har eiendomsskatt i hele kommunen, unntatt næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2009,2009,
@@ -72,9 +75,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSbyallnaering0000,"Har eiendomsskatt både i områder utbygd på byvis og på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2007,2007,0.0
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2008,2008,0.0
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2009,2009,0.0
@@ -91,9 +95,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSbyverkogbruk0000,"Har eiendomsskatt både i områder utbygd på byvis og på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2007,2007,0.0
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2008,2008,0.0
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2009,2009,0.0
@@ -110,9 +115,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSbareby0000,"Har eiendomsskatt bare i områder utbygd på byvis (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2009,2009,
@@ -129,9 +135,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSbareallnaerin0000,"Har eiendomsskatt bare på næringseiendom, kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2007,2007,0.0
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2008,2008,0.0
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2009,2009,0.0
@@ -148,9 +155,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSbareverkogbru0000,"Har eiendomsskatt bare på kraftanlegg/-nett, vindkraftverk og petroleumsanlegg (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2007,2007,7.0
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2008,2008,6.5
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2009,2009,6.0
@@ -167,9 +175,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2020,2020,7.0
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2021,2021,7.0
 1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2022,2022,7.0
-1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2023,2023,
-1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2024,2024,
-1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2025,2025,
+1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2023,2023,7.0
+1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2024,2024,7.0
+1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2025,2025,7.0
+1130,Strand,KOSgenskatt0000,Generell eiendomsskattesats (per 1000),2026,2026,7.0
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2007,2007,
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2008,2008,
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2009,2009,
@@ -186,9 +195,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2020,2020,2.1
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2021,2021,2.2
 1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2022,2022,2.2
-1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2023,2023,
-1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2024,2024,
-1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2025,2025,
+1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2023,2023,2.2
+1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2024,2024,2.2
+1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2025,2025,2.2
+1130,Strand,KOSdiffskatt0000,Differensiert skattesats for bolig- og fritidseiendommer (per 1000),2026,2026,2.2
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2007,2007,1987.0
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2008,2008,1987.0
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2009,2009,1987.0
@@ -205,9 +215,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2020,2020,2018.0
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2021,2021,2018.0
 1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2022,2022,2018.0
-1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2023,2023,
-1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2024,2024,
-1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2025,2025,
+1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2023,2023,2018.0
+1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2024,2024,2019.0
+1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2025,2025,2019.0
+1130,Strand,KOSaarikraft0000,Hvilket år trådte takstene fra siste alminnelige taksering i kraft? (år),2026,2026,2019.0
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2009,2009,
@@ -227,6 +238,7 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2023,2023,
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2024,2024,
 1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSharkontorjust0000,"Er det foretatt kontorjustering av gjeldende takster i år? (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2007,2007,
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2008,2008,
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2009,2009,
@@ -246,6 +258,7 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2023,2023,
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2024,2024,
 1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2025,2025,
+1130,Strand,KOSprosentkontor0000,Hvilken prosent er det vedtatt å øke takstene med i år? (prosent),2026,2026,
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2007,2007,1.0
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2008,2008,1.0
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2009,2009,1.0
@@ -262,9 +275,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSharbunnfradra0000,"Har kommunen innført bunnfradrag? (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2007,2007,
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2008,2008,
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2009,2009,
@@ -284,6 +298,7 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2023,2023,
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2024,2024,
 1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2025,2025,
+1130,Strand,KOSbunnfradrag0000,Hva er størrelsen på bunnfradraget? (kr),2026,2026,
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2007,2007,0.0
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2008,2008,0.0
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2009,2009,0.0
@@ -300,9 +315,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSfritak0000,"Gir kommunen eiendomsskattefritak for nye boliger? (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2007,2007,
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2008,2008,
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2009,2009,
@@ -322,6 +338,7 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2023,2023,
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2024,2024,
 1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2025,2025,
+1130,Strand,KOSfritakaar0000,Antall år med fritak for nye boliger (år),2026,2026,
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2009,2009,
@@ -338,9 +355,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2020,2020,1.0
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2021,2021,1.0
 1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2022,2022,1.0
-1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2023,2023,1.0
+1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2024,2024,1.0
+1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2025,2025,1.0
+1130,Strand,KOSfritakhist0000,"Gir kommunen eiendomsskattefritak for historiske bygninger? (ja=1, nei=0)",2026,2026,1.0
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2009,2009,
@@ -357,9 +375,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSfritakfribo0000,"Gir kommunen eiendomsskattefritak for fritidseiendommer? (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2007,2007,
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2008,2008,
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2009,2009,
@@ -376,9 +395,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2020,2020,0.0
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2021,2021,0.0
 1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2022,2022,0.0
-1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2023,2023,
-1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2024,2024,
-1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2025,2025,
+1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2023,2023,0.0
+1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2024,2024,0.0
+1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2025,2025,0.0
+1130,Strand,KOSskattformue0000,"Benytter kommunen formuesgrunnlag ved verdisetting av boliger? (ja=1, nei=0)",2026,2026,0.0
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2007,2007,
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2008,2008,
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2009,2009,
@@ -395,9 +415,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2020,2020,
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2021,2021,
 1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2022,2022,
-1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2023,2023,
-1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2024,2024,
-1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2025,2025,
+1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2023,2023,2914.0
+1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2024,2024,3587.0
+1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2025,2025,3587.0
+1130,Strand,KOSgjsnittskattb0000,Gjennomsnittlig årlig eiendomsskatt for boliger i kommunen (kr),2026,2026,
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2007,2007,1871.0
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2008,2008,1738.0
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2009,2009,1555.0
@@ -414,9 +435,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2020,2020,3116.0
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2021,2021,3265.0
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2022,2022,2957.0
-1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2023,2023,
-1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2024,2024,
+1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2023,2023,3265.0
+1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2024,2024,3265.0
 1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2025,2025,
+1130,Strand,KOSskattenebolig0000,Eiendomsskatten for en enebolig på 120 kvm (kr),2026,2026,
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2007,2007,12509.0
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2008,2008,11559.0
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2009,2009,17231.0
@@ -433,9 +455,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2020,2020,34761.0
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2021,2021,36943.0
 1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2022,2022,36827.0
-1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2023,2023,
-1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2024,2024,
-1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2025,2025,
+1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2023,2023,38351.0
+1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2024,2024,38567.0
+1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2025,2025,39353.0
+1130,Strand,KOSEiendomsskatt0000,Eiendomsskatt i alt (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2007,2007,9233.0
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2008,2008,8445.0
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2009,2009,10527.0
@@ -452,9 +475,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2020,2020,21668.0
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2021,2021,23059.0
 1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2022,2022,23206.0
-1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2023,2023,
-1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2023,2023,23870.0
+1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2024,2024,24247.0
+1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2025,2025,24750.0
+1130,Strand,KOSeiendomsskatt0007,Eiendomsskatt fra boliger og fritidsboliger (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2009,2009,
@@ -473,7 +497,8 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2022,2022,
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2023,2023,
 1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2025,2025,20200.0
+1130,Strand,KOSeiendomsskatt0008,Herav eiendomsskatt fra boliger (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2009,2009,
@@ -492,7 +517,8 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2022,2022,
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2023,2023,
 1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2025,2025,4550.0
+1130,Strand,KOSeiendomsskatt0009,Herav eiendomsskatt fra fritidsboliger (1000 kr),2026,2026,
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2007,2007,3276.0
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2008,2008,3114.0
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2009,2009,6704.0
@@ -509,9 +535,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2020,2020,13093.0
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2021,2021,13884.0
 1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2022,2022,13621.0
-1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2023,2023,
-1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2024,2024,
-1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2025,2025,
+1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2023,2023,14481.0
+1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2024,2024,14320.0
+1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2025,2025,14603.0
+1130,Strand,KOSEiendomsskatt0002,Eiendomsskatt fra annen eiendom enn boliger og fritidsboliger (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2009,2009,
@@ -528,9 +555,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2020,2020,
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2021,2021,
 1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2022,2022,
-1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2023,2023,
-1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2023,2023,2128.0
+1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2024,2024,2143.0
+1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2025,2025,2180.0
+1130,Strand,KOSeiendomsskatt0006,Herav eiendomsskatt fra vannkraftanlegg (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2009,2009,
@@ -547,9 +575,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2020,2020,
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2021,2021,
 1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2022,2022,
-1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2023,2023,
-1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2023,2023,0.0
+1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2024,2024,0.0
+1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2025,2025,0.0
+1130,Strand,KOSeiendomsskatt0004,Herav eiendomsskatt fra vindkraftverk (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2009,2009,
@@ -566,9 +595,10 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2020,2020,
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2021,2021,
 1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2022,2022,
-1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2023,2023,
-1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2023,2023,0.0
+1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2024,2024,0.0
+1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2025,2025,0.0
+1130,Strand,KOSeiendomsskatt0003,Herav eiendomsskatt fra petroleumsanlegg (1000 kr),2026,2026,
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2007,2007,
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2008,2008,
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2009,2009,
@@ -585,6 +615,7 @@ KOKkommuneregion0000_kode,KOKkommuneregion0000,ContentsCode_kode,ContentsCode,Ti
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2020,2020,
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2021,2021,
 1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2022,2022,
-1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2023,2023,
-1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2024,2024,
-1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2025,2025,
+1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2023,2023,12353.0
+1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2024,2024,12177.0
+1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2025,2025,12423.0
+1130,Strand,KOSeiendomsskatt0005,Herav eiendomsskatt fra kraftnett og næringseiendom m.m. (1000 kr),2026,2026,
